@@ -6,7 +6,9 @@ A GUI for making sense of the long list of port locations at the translocation N
 
 NOTE: Requires E3 or support for /bark
 
-1. Drop this package into your Macroquest/lua/ folder. You should then have a valet/ folder in your lua folder :)
+Method 1: Run in your macroquest/lua folder: git clone https://github.com/d3is/valet.git and this will create the valet/ folder.
+
+Method 2: Download the Zip form of the repository, create a folder named "valet" in your macroquest/lua folder and extra the contents of the zip into it.
 
 ## Manual Start
 
