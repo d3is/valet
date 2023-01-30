@@ -1,0 +1,18 @@
+return {
+	{"bothunder", "Bastion of Thunder"},
+	{"codecay", "Crypt of Decay"},
+	{"hohonora", "Halls of Honor"},
+	{"poair", "Plane of Air"},
+	{"podisease", "Plane of Disease"},
+	{"poeartha", "Plane of Earth A"},
+	{"poearthb", "Plane of Earth B"},
+	{"pofire", "Plane of Fire"},
+	{"poinnovation", "Plane of Innovation"},
+	{"pojustice", "Plane of Justice"},
+	{"ponightmare", "Plane of Nightmare"},
+	{"postorms", "Plane of Storms"},
+	{"potactics", "Plane of Tactics"},
+	{"povalor", "Plane of Valor"},
+	{"powater", "Plane of Water"},
+	{"solrotower", "Tower of Solusek Ro's"},
+}

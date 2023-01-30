@@ -1,0 +1,15 @@
+return {
+	{"cobaltscar", "Cobalt Scar"},
+	{"crystal", "Crystal Caverns"},
+	{"frozenshadow", "Tower of Frozen Shadow"},
+	{"growthplane", "Plane of Growth"},
+	{"iceclad", "Iceclad Ocean"},
+	{"kael", "Kael Drakkal"},
+	{"mischiefplane", "Plane of Mischief"},
+	{"necropolis", "Dragon Necropolis"},
+	{"skyshrine", "Skyshrine"},
+	{"thurgadina", "Thurgadin"},
+	{"velketor", "Velketor's Labyrinth"},
+	{"wakening", "Wakening Lands"},
+	{"westwastes", "Western Wastes"},
+}

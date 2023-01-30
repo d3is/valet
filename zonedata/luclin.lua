@@ -1,0 +1,17 @@
+return {
+	{"acrylia", "Acrylia Caverns"},
+	{"dawnshroud", "Dawnshroud Peaks"},
+	{"echo", "Echo Caverns"},
+	{"fungusgrove", "Fungus Grove"},
+	{"grimling", "Grimling Forest"},
+	{"maiden", "Maiden's Eye"},
+	{"paludal", "Paludal Caverns"},
+	{"scarlet", "Scarlet Desert"},
+	{"shadowhaven", "Shadowhaven"},
+	{"sharvahl", "Shar Vahl"},
+	{"ssratemple", "Ssra Temple"},
+	{"thegrey", "Grey"},
+	{"twilight", "Twilight Sea"},
+	{"umbral", "Umbral Plains"},
+	{"vexthal", "Vex Thal"},
+}
