@@ -171,8 +171,9 @@ local LazPortGUI = function()
 		
 		ImGui.EndTabBar()
 
-		ImGui.End()
+		-- ImGui.End()
 	end
+	ImGui.End()
 end
 
 loadFavorites()
